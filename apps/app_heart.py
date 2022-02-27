@@ -24,8 +24,8 @@ set_bg_hack_url()
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/Adithya/Desktop/Ineuron/Omsairam_Projects_Resume/Heart_disease_prediction/heart_pred.pkl', 'rb'))
-sc = pickle.load(open('C:/Users/Adithya/Desktop/Ineuron/Omsairam_Projects_Resume/Heart_disease_prediction/transform.pkl', 'rb'))
+loaded_model = pickle.load(open('heart_pred.pkl', 'rb'))
+sc = pickle.load(open('transform.pkl', 'rb'))
 
 # creating a function for Prediction
 

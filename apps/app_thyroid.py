@@ -23,7 +23,7 @@ set_bg_hack_url()
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/Adithya/Desktop/Ineuron/Omsairam_Projects_Resume/Thy_latest/rf_model.pkl', 'rb'))
+loaded_model = pickle.load(open('rf_model.pkl', 'rb'))
 
 
 # creating a function for Prediction
