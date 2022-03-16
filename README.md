@@ -167,9 +167,9 @@ Screenshots
 By using the radio buttons we can select the model that we want to use
 
 If the user has selected:
-	* Parkinson Disease
-		The output will be whether the patient has Parkinson disease or not
-	* Thyroid Disease
-		The output will be whether the patient has Thyroid disease or not
-	* Heart Disease
-		The output will be whether the patient has Heart disease or not
+* Parkinson Disease
+	* The output will be whether the patient has Parkinson disease or not
+* Thyroid Disease
+	* The output will be whether the patient has Thyroid disease or not
+* Heart Disease
+	* The output will be whether the patient has Heart disease or not
