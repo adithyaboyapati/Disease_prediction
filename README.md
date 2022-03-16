@@ -162,5 +162,14 @@ Screenshots
 ![Thyroid-pred](https://user-images.githubusercontent.com/24864663/156576137-96087028-de95-4979-a9fa-7dc57ba4d950.PNG)
 
 
+**Summary for the Prediction**
 
+By using the radio buttons we can select the model that we want to use
 
+If the user has selected:
+	* Parkinson Disease
+		The output will be whether the patient has Parkinson disease or not
+	* Thyroid Disease
+		The output will be whether the patient has Thyroid disease or not
+	* Heart Disease
+		The output will be whether the patient has Heart disease or not
